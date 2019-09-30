@@ -51,5 +51,7 @@ PHP ==> https://www.runoob.com/php/php-tutorial.html
 ### 第一支PHP====php1.php
 
 ```
-
+<?php
+   phpinfo();
+?>
 ```
