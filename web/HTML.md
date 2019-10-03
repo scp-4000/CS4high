@@ -17,7 +17,6 @@ https://www.w3schools.com/html/html_colors.asp
     <h3>Hello! Teacher!</h3>
   </body>
 </html>
-
 ```
 ```
 <!doctype html>
@@ -33,10 +32,9 @@ https://www.w3schools.com/html/html_colors.asp
   </body>
 </html>
 ```
-````
-標籤及其屬性
-In HTML, a color can be specified by using a color name
-```
+
+標籤及其屬性:In HTML, a color can be specified by using a color name
+
 ## 超連結 html_2.html
 ```
 https://www.w3schools.com/html/html_links.asp
