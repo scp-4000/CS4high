@@ -1,4 +1,9 @@
 # HTML
+```
+https://www.w3schools.com/
+https://www.w3school.com.cn/
+
+```
 
 ## html_1.html
 ```
@@ -63,3 +68,22 @@ HTML標籤+屬性
 <a>
 ```
 
+
+## 鑲入圖片===>使用<img>標籤
+
+```
+https://www.w3schools.com/html/tryit.asp?filename=tryhtml_images_trulli
+```
+
+~~~
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>HTML Image</h2>
+<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
+
+</body>
+</html>
+
+~~~
