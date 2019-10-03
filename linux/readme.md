@@ -21,6 +21,8 @@ Centos
 ```
 ```
 Red Hat Enterprise
+
+https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux/try-it?intcmp=701f20000012m1qAAA
 ```
 
 ```
