@@ -19,6 +19,9 @@ Ubuntu
 ```
 Centos
 ```
+```
+Red Hat Enterprise
+```
 
 ```
 Kali linux
