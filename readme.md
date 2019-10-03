@@ -1,3 +1,27 @@
+# 小考
+```
+作業系統觀念: 1次
+Linux : 2 次*(25~50)
+Mysql資料庫: 1次
+
+Python: 3 次
+網站開發: 2 次
+
+計算機網路概論: 1次(25~50題選擇)
+計算機網路概論: 1次(OSI| TCP/IP)
+
+計算機硬體概論: 2次
+```
+# 期中考
+```
+軟體為主:
+作業系統
+Linux
+Python
+Web
+
+計算機網路
+```
 # 教科書
 ```
 計算機概論：探索電腦2018(Vermaat/Discovering Computers 2018: Digital Technology, Data, and Devices 1e)
