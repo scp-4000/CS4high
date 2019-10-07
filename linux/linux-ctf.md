@@ -45,3 +45,19 @@ drwxr-xr-x 1 root root 4096 Apr 26 14:48 ..
 -rw-rw-r-- 1 root root   35 Nov 15  2017 flag
 -rw-rw-r-- 1 root root   68 Nov 20  2017 hex.txt
 ```
+# 指令與指令參數
+```
+command(指令) line 
+options 參數
+```
+## 指令參數的學習
+```
+ls -h
+ls --h
+ls -help
+ls --help
+```
+```
+到google 搜尋linux ls
+```
+```
