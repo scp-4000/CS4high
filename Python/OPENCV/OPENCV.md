@@ -1,5 +1,5 @@
 #
-### [去除水印}(https://www.cnblogs.com/dockers/p/9902202.html)
+### [去除水印](https://www.cnblogs.com/dockers/p/9902202.html)
 ```
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
