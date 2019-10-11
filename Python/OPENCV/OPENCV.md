@@ -1,5 +1,17 @@
 #
+
+```
+視訊壓縮cvCreateVideoWriter()
+opencv 多組圖片 合成視頻動畫avi
+```
 ### [去除符水印](https://www.cnblogs.com/dockers/p/9902202.html)
+```
+https://www.cnblogs.com/dockers/p/9902202.html
+https://blog.csdn.net/Maximun/article/details/85064274
+https://www.jianshu.com/p/2da98431a779
+https://blog.csdn.net/u011983997/article/details/80420339
+https://blog.csdn.net/taczeng/article/details/90642425
+```
 ```
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
@@ -101,6 +113,18 @@ cv2.imshow('original', img)
 cv2.imshow('result', dst)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+```
+```
+waitKey()函數詳解
+
+1–waitKey()–這個函數是在一個給定的時間內(單位ms)等待使用者按鍵觸發;如果用戶沒有按下 鍵,則接續等待(迴圈)
+
+2–如下所示: while(1){ if(waitKey(100)==27)break; } 在這個程式中,我們告訴OpenCv等待用戶觸發事件,等待時間為100ms，如果在這個時間段內, 用戶按下ESC(ASCII碼為27),則跳出迴圈,否則,則跳出迴圈
+
+3–如果設置waitKey(0),則表示程式會無限制的等待使用者的按鍵事件
+
+參考：https://blog.csdn.net/farmwang/article/details/74170975
+
 ```
 #### 2、圖像模糊（圖像平滑）
 ```
