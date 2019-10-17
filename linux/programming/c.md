@@ -21,6 +21,15 @@ C 語言動態記憶體配置教學：malloc、free 等函數
 https://blog.gtwang.org/programming/c-memory-functions-malloc-free/
 
 ```
+```
+C 語言 fork 使用教學與範例，多行程 Multi-Process 平行化程式設計
+https://blog.gtwang.org/programming/c-fork-tutorial-multi-process-programming/
+```
+```
+C/C++ 程式設計教學：main 函數讀取命令列參數，argc 與 argv 用法
+https://blog.gtwang.org/programming/c-cpp-tutorial-argc-argv-read-command-line-arguments/
+```
+
 #
 ```
 圖說演算法：使用C語言
