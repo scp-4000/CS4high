@@ -1,3 +1,26 @@
+# c PROGRAMMING @ LINUX==使用gcc
+```
+GCC 編譯器基本使用教學與範例
+https://blog.gtwang.org/programming/gcc-comipler-basic-tutorial-examples/
+```
+
+```
+# 編譯 C 程式，指定輸出檔名
+gcc -o hello hello.c
+
+# 執行編譯好的程式
+./hello
+```
+```
+使用 gcc 自製 C/C++ 靜態、共享與動態載入函式庫教學
+2017/02/03
+https://blog.gtwang.org/programming/howto-create-library-using-gcc/
+```
+```
+C 語言動態記憶體配置教學：malloc、free 等函數
+https://blog.gtwang.org/programming/c-memory-functions-malloc-free/
+
+```
 #
 ```
 圖說演算法：使用C語言
