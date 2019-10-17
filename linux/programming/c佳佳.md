@@ -1,3 +1,37 @@
+# c++ PROGRAMMING @ lINUX==使用g++
+```
+C++ Compiler : g++ 指令介紹
+http://beyond-firmware.blogspot.com/2014/12/c-compiler-g.html
+
+以下提供一些g++指令參數解釋，基本上就是用來生成執行檔/dll檔/obj檔
+
+# Generate file.o
+g++ -c file.cpp  
+
+# Generate Assembly : file.s 
+g++ -S file.cpp  
+
+# Convert file.o to file_dll.dll (需要先把cpp檔做成obj檔再來轉成dll檔)
+g++ -shared file.o -o file_dll.dll 
+
+# Generate file.exe
+g++ file.cpp  -o file 
+
+# Generate file.exe from object and cpp files
+g++ file.cpp  obj.o -o file 
+
+# Generate main.exe from dll and cpp files
+g++ file_dll.dll main.cpp -o main
+
+# Alternative solution to generate main.exe from file_dll.dll  and main.cpp ,  -L. means current dir
+g++ -L. -lfile_dll main.cpp -o main 
+
+# Show all the warning
+gcc -Wall -o main main.c
+
+# Warning as error
+gcc -Wall -Werror -o main main.c
+```
 #
 ```
 圖說演算法: 使用C++
