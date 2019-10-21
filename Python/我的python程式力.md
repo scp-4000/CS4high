@@ -85,3 +85,4 @@ function開發(功能)
 訪問閉包中定義的變數
 遞迴函式
 ```
+# [5]模組,標準函數庫(standard library),第三方套件(opencv, tensorflow,....)
