@@ -22,6 +22,20 @@ word = "arttarataaa"
 print(word.replace("a", "z"))
 (A)出現錯誤,無法印出   (B)arttarataaa  (C)zrttzrztaaa (D)zrttzrztzzz
 
+7根據底下程式,下列敘述何者為非?[複選題]
+
+names = ['龍', '聖']
+index = 0
+
+while index < len(names):
+    name = names[index]
+    print(name)
+    index = index + 1
+    
+(A)len(names)=2  
+(B)names[1]是 龍 
+(C)程式執行完後,index最後為2
+(D)如果把條件改成 index > len(names),中index最後為2
 ```
 # 程式設計題
 ```
