@@ -28,8 +28,43 @@ print(word.replace("a", "z"))
 for 迴圈(loop)的技巧
 1.使用for 迴圈(loop)計算1+2+3+.....100
 2.使用for 迴圈(loop)計算1+3+5+7.....+99
+3.使用for 迴圈(loop)計算1*3*5*7.....*99
 
 while 迴圈(loop)的技巧
 3.使用for 迴圈(loop)計算1+2+3+.....100
 4.使用for 迴圈(loop)計算1+3+5+7.....+99
+```
+
+
+# 程式設計題解答(有各種寫法,找寫最快的分數最高)
+
+### 使用for 迴圈(loop)計算1+2+3+.....100
+```
+sum=0
+
+for x in range(1,101):
+  sum +=x
+  
+print(sum)
+```
+### 使用for 迴圈(loop)計算1+3+5+7.....+99
+```
+sum=0
+
+for x in range(1,101,2):
+  sum +=x
+  
+print(sum)
+```
+### 使用for 迴圈(loop)計算
+```
+1*3*5*7.....*99
+```
+```
+total=1
+
+for x in range(1,101,2):
+  total *=x
+  
+print(total)
 ```
