@@ -4,6 +4,7 @@
 Python 技術者們：練功！老手帶路教你精通正宗 Python 程式
 The Quick Python Book Third Edition
 作者： Naomi Ceder   譯者： 張耀鴻  旗標出版社  出版日期：2019/10/11
+https://www.manning.com/books/the-quick-python-book-third-edition
 ```
 ```
 
