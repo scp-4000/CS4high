@@ -1,4 +1,4 @@
-#
+# 字串
 
 ```
 1.print("3*2*(17-2)")會印出甚麼結果:
@@ -23,6 +23,15 @@ word = "arttarataaa"
 print(word.replace("a", "z"))
 (A)出現錯誤,無法印出   (B)arttarataaa  (C)zrttzrztaaa (D)zrttzrztzzz
 
+7.底下各行輸出為何?
+sentence = 'To Be or NOT to Be: that is the question: '
+print(sentence.upper())
+print(sentence.lower())
+print(sentence.capitalize())
+print(sentence.count('o'))
+```
+### while loop
+```
 7根據底下程式,下列敘述何者為非?[複選題]
 
 names = ['龍', '聖']
