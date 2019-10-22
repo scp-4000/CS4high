@@ -1,24 +1,24 @@
 # 字串
 
 ```
-1.print("3*2*(17-2)")會印出甚麼結果:
+1.print("3*2*(17-2)")會印出甚麼結果:D
 (A)0   (B)90  (C)出現錯誤,無法印出  (D)3*2*(17-2)
 
-2.print(3*2*(17-2))會印出甚麼結果:
+2.print(3*2*(17-2))會印出甚麼結果:B
 (A)0   (B)90  (C)出現錯誤,無法印出  (D)3*2*(17-2)
 
-3.print("abc""+""def")會印出甚麼結果:
+3.print("abc""+""def")會印出甚麼結果:B
 (A)出現錯誤,無法印出   (B)abc+def  (C)abc""+""def  (D)abcdef
 
-4.print("abc"+"def")會印出甚麼結果:
+4.print("abc"+"def")會印出甚麼結果:D
 (A)出現錯誤,無法印出   (B)abc+def  (C)abc""+""def  (D)abcdef
 
-5.底下程式執行後結果為何?
+5.底下程式執行後結果為何?C
 word = "arttarataaa"
 print(word.replace("a", "z",3))
 (A)出現錯誤,無法印出   (B)arttarataaa  (C)zrttzrztaaa (D)zrttzrztzzz
 
-6.底下程式執行後結果為何?
+6.底下程式執行後結果為何?D
 word = "arttarataaa"
 print(word.replace("a", "z"))
 (A)出現錯誤,無法印出   (B)arttarataaa  (C)zrttzrztaaa (D)zrttzrztzzz
@@ -29,6 +29,10 @@ print(sentence.upper())
 print(sentence.lower())
 print(sentence.capitalize())
 print(sentence.count('o'))
+答案:  TO BE OR NOT TO BE: THAT IS THE QUESTION: 
+       to be or not to be: that is the question: 
+       To be or not to be: that is the question: 
+       4
 ```
 ### while loop
 ```
@@ -41,7 +45,7 @@ while index < len(names):
     name = names[index]
     print(name)
     index = index + 1
-    
+    答案:A,B,D
 (A)len(names)=2  
 (B)names[1]是 龍 
 (C)程式執行完後,index最後為2
